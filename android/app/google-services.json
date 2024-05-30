@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961421166279",
+    "project_id": "emergency-sheet-cl28ip",
+    "storage_bucket": "emergency-sheet-cl28ip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961421166279:android:67c33b11ec5b54185620e2",
+        "android_client_info": {
+          "package_name": "com.mycompany.emergencysheet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQMqIaZRnCfSOSPW0t2TrZeOBF1hf53wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
